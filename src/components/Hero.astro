@@ -1,0 +1,46 @@
+--- 
+import {basics} from "../components/cv.json";
+const {name,label,image,location,profiles,phone,email} = basics
+const {address, region, city} = location
+--- 
+
+<section>
+    <div class="container">
+            <div class="info">
+                <h1>{name}</h1>
+                <h2>{label}</h2>
+                <span>
+                    <!-- Agregar iconos -->
+                    {city}, {region} 
+                </span>
+
+                <footer>
+                {
+                email&&(
+                <a 
+                    href='mailto:${email}'
+                    title={"Enviar correo electronico a ${name} al correo ${email}"}
+                    target="_blank"
+                    >
+                        {/* Icono mail */}
+                </a>
+                )
+
+                }
+
+                </footer>
+                
+
+                <figure>
+                    <img src={image} alt={name} />
+                </figure>
+            </div>
+    </div>
+</section>
+
+
+<style>
+    .container
+
+
+</style> 

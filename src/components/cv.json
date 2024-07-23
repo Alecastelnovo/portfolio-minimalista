@@ -1,0 +1,220 @@
+{
+    "basics": {
+        "name": "Alejo Castelnovo",
+        "label": "Software Developer, centrado en el desarrollo Web",
+        "image": "src/img/avatar.jpg",
+        "email": "castelnovo12@gmail.com",
+        "phone": "+54 342 5173294",
+        "url": "",
+        "summary": "22 años. Finalizando la carrera de Software Developer. Formandome y trabajando freelance desde 2021. Buscando la oportunidad de introducirme en el mundo laboral.",
+        "location": {
+            "address": "Cnel Rguez",
+            "postalCode": "S2240",
+            "countryCode": "ES",
+            "city": "Coronda, Santa Fe",
+            "region": "Argentina"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "Alejo Castelnovo",
+                "url": "https://www.linkedin.com/in/castelnovoalejo/"
+            },
+            {
+                "network": "X",
+                "username": "Alejocastelnovo",
+                "url": "https://x.com/alejocastelnovo"
+            },
+            {
+                "network": "GitHub",
+                "username": "alecastelnovo",
+                "url": "https://github.com/Alecastelnovo"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "midudev",
+            "position": "Divulgador sobre Programación Web",
+            "url": "https://twitch.tv/midudev",
+            "startDate": "2021-01-01",
+            "endDate": null,
+            "summary": "",
+            "highlights": [
+                ""
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": [
+                "Awarded 'Volunteer of the Month'"
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "UTN, Buenos Aires",
+            "url": "https://www.frba.utn.edu.ar/",
+            "area": "Web Developer",
+            "studyType": "Certificate",
+            "startDate": "2021-01-01",
+            "endDate": "2021-04-01"
+        },
+        {
+            "institution": "IES, Santa Fe",
+            "url": "https://iessantafe.edu.ar/",
+            "area": "Software Developer",
+            "studyType": "Technician",
+            "startDate": "2022-01-01",
+            "endDate": "2024-12-01"
+        },
+        {
+            "institution": "UTN, Buenos Aires",
+            "url": "https://www.frba.utn.edu.ar/",
+            "area": "Web Developer",
+            "studyType": "Certificate",
+            "startDate": "2021-01-01",
+            "endDate": "2021-04-01"
+        },
+        {
+            "institution": "Asociación Argentina de Cultura Inglesa",
+            "url": "https://www.aaci.org.ar/",
+            "area": "Ingles B2",
+            "studyType": "Certificate",
+            "startDate": "2011",
+            "endDate": "2017"
+        }
+    ],
+
+    "certificates": [
+        {
+            "name": "Web Developer",
+            "date": "2021",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+
+    "skills": [
+        {
+            "name": "HTML",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend"
+            ]
+        },
+        {
+            "name": "CSS",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Avanzado",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Node",
+            "keywords": [
+                "Desarrollo Web",
+                "JavaScript"
+            ]
+        },
+        
+        {
+            "name": "Git",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "React",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "English",
+            "fluency": "Advanced"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Programacion, Criptomonedas, Musica",
+            "keywords": [
+                "Cryptos",
+                "Programming",
+                "Guitar"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Gestion de Pedidos",
+            "isActive": true,
+            "description": "Sistema para gestionar los pedidos de viandas de una Empresa",
+            "highlights": [
+                "",
+                "En desarrollo"
+            ],
+            "url": "https://mars.codes"
+        },
+        {
+            "name": "Sistema de Gestion",
+            "isActive": true,
+            "description": "Aplicacion en android para gestionar y ver notas del instituto",
+            "highlights": [
+                "Android Studio"
+            ]
+        }
+    ]
+}
